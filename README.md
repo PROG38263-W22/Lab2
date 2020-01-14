@@ -18,7 +18,7 @@ Note that GitHub (which now offers free private repos without a paid account) is
 * Change into the root of the lab directory, where the docker-compose.yaml file is located: <code>cd lab3</code>
 * Run the docker-compose command, which builds and starts the containers in the compose file: <code>sudo docker-compose up</code>
 * The compose file should have started an nginx web server with PHP support.
-* Browse to the IP address of your server.
+* Browse to the IP address of your server (http://your-vm-ip-address). You should see a message and a link.
 * You can stop the docker containers by hitting <code>ctrl + c</code> in the terminal where you started docker.
 
 ## Basic Form Processing in PHP
