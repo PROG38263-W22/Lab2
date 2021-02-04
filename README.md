@@ -1,8 +1,8 @@
-# Lab 3 - Version Control Refresher and Hello World Web PHP App
+# Lab 2 - Version Control Refresher and Hello World Web PHP App
 
 ## Version Control Refresher
 
-Git has become almost the universal standard for modern software version control. If you haven't used it before or could use a refresher, this section includes links to useful guides and a stronly recommended interactive tutorial. You are strongly encouraged to at least complete the interactive tutorial.
+Git has become almost the universal standard for modern software version control. If you haven't used it before or could use a refresher, this section includes links to useful guides and a strongly recommended interactive tutorial. You are strongly encouraged to at least complete the interactive tutorial.
 
 * Interactive Tutorial: <https://learngitbranching.js.org/>
 * Git resources from GitHub: <https://try.github.io/>
