@@ -8,7 +8,7 @@ Git has become almost the universal standard for modern software version control
 * Git resources from GitHub: <https://try.github.io/>
 * Tutorial on using GitHub (not just git): <https://guides.github.com/activities/hello-world/>
 
-Note that GitHub (which now offers free private repos without a paid account) is not the only web-based solution for hosting and managing software projects through git. BitBucket and GitLab (which you can also host and run in your own infrastructure) are popular alternatives. You should be using version control for any/all of your software projects and definitly always when more than one developer is contributing to the project.
+Note that GitHub (which now offers free private repos without a paid account) is not the only web-based solution for hosting and managing software projects through git. BitBucket and GitLab (which you can also host and run in your own infrastructure) are popular alternatives. You should be using version control for any/all of your software projects and definitely always when more than one developer is contributing to the project.
 
 ## Setup
 
@@ -23,7 +23,7 @@ Note that GitHub (which now offers free private repos without a paid account) is
 
 ## Basic Form Processing in PHP
 
-PHP (<https://www.php.net/>), which stands for PHP Hypertext Preprocessor, is an older but very prevalent web programming language. It's popularity is partially due to the lack of required secondary application server and the speed with which a basic dynamic website can be built. In this section you will build a simple dynamic page that is capable of responding to a form submitted by a user. The page will use sessions to track user data and will be self contained in a single html file.
+PHP (<https://www.php.net/>), which stands for PHP Hypertext Preprocessor, is an older but very prevalent web programming language. It's popularity is partially due to the lack of required secondary application server and the speed with which a basic dynamic website can be built. In this section you will build a simple dynamic page that is capable of responding to a form submitted by a user. The page will use sessions to track user data and will be self-contained in a single html file.
 
 1. Create a new html document in the <code>code</code> folder of the repository called basic.php (or copy your html template from Lab 1, but change the filename to basic.php).
 
@@ -65,7 +65,7 @@ Notice that PHP commands are written inline with html tags into a single documen
  
 5. Note that the *action* attribute in the previous step's form tag is "". This is a shortcut to send the form to the current page for processing. 
 
-6. Next, you'll create some code in the same document (thought this isan't always good practice but for this short example it will be okay) to process the form. Somewhere between the <code>&lt;head&gt;&lt;/head&gt;</code> tags at the top of your document, insert the opening and closing php tags, <code>&lt;?php ?&gt;</code>
+6. Next, you'll create some code in the same document (thought this isn't always good practice but for this short example it will be okay) to process the form. Somewhere between the <code>&lt;head&gt;&lt;/head&gt;</code> tags at the top of your document, insert the opening and closing php tags, <code>&lt;?php ?&gt;</code>
 
 7. Between the php tags you just created, add the following:
 
