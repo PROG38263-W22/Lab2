@@ -14,7 +14,7 @@ Note that GitHub (which now offers free private repos without a paid account) is
 
 * First, stop your nginx service if it is still running: <code>sudo systemctl stop nginx</code>
 * Then, install docker compose (a tool that manages multiple docker containers): <code>sudo apt install docker-compose</code>
-* Clone this git repository: <code>git clone https://github.com/PROG38263-W21/Lab2.git</code>
+* Clone this git repository: <code>git clone https://github.com/PROG38263-W22/Lab2.git</code>
 * Change into the root of the lab directory, where the docker-compose.yaml file is located: <code>cd Lab2</code>
 * Run the docker-compose command, which builds and starts the containers in the compose file: <code>sudo docker-compose up</code>
 * The compose file should have started an nginx web server with PHP support.
